@@ -3,11 +3,15 @@
 This repository contains:
  
 1. A script for meshing a segmented phase from a reconstructed tomographic volume using the **CGAL** volumetric mesher. 
+
+<p align="center">
+  <img src="readme-figures/imToMesh.png" width="300" title="hover text">
+</p>
  
 2. A script for creating a virtual tomographic image/volume from a surface file (`.stl`). 
 
 <p align="center">
-  <img src="/home_pers/rouwane/ALI/Code/Image-based-Meshing-Tools/readme-figures/meshToIm.png" width="150" title="hover text">
+  <img src="readme-figures/meshToIm.png" width="300" title="hover text">
 </p>
 
 
